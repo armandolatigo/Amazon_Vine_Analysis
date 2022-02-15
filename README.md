@@ -12,7 +12,9 @@ Nonpaid Vine reviews far exceed the amount of reviews procured by the Vine progr
 
 
 -There were 102 total Vine votes against 64,000 non Vine votes.  
+
 -Only 48 of the Vine votes were five star reviews and 20,282 were non Vine votes.
+
 -However, the percentage of five star review sfor Vine is 47% and the non Vine reviews five star percentage is 32%
 
 ### Summary
