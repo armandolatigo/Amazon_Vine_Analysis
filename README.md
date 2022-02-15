@@ -8,7 +8,8 @@ Analysis of U.S. Amazon luggage review dataset, which among others includes star
 
 Nonpaid Vine reviews far exceed the amount of reviews procured by the Vine program.
 
-[img]
+![Screen Shot 2022-02-14 at 7 29 10 PM](https://user-images.githubusercontent.com/92451164/153976767-0fca3252-c5d4-4b27-89dd-ddfea0499724.png)
+
 
 -There were 102 total Vine votes against 64,000 non Vine votes.  
 -Only 48 of the Vine votes were five star reviews and 20,282 were non Vine votes.
